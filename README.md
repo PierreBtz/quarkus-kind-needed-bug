@@ -1,5 +1,10 @@
 # quarkus-kind-needed-bug
 
+This is a reproducer for https://github.com/quarkusio/quarkus/issues/38322
+
+-----------
+
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
